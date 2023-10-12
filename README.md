@@ -1,19 +1,60 @@
-# 💫 About Me:
-Hi i'm Karl Kiyotaka
-こんにちは、清隆です。
+# 👋 Hello, I'm Karl Mathuthu
 
+Welcome to my GitHub profile! 🚀
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mathuthuKarl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Karlmathuthu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/karlmathuthu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20281089) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MathuthuKarl) 
+## 🔧 Tech Stack
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karlmathuthu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm passionate about a variety of technologies and languages, including:
+
+- Dart (Flutter) :iphone:
+- Firebase :fire:
+- Kotlin :rocket:
+- Java ☕
+- C# :computer:
+
+Feel free to explore my repositories and projects related to these technologies!
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karlmathuthu&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Karlmathuthu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Feel free to explore these projects and don't forget to give them a star if you find them useful!
+
+## 🌟 Portfolio
+
+Here are some of my notable projects:
+
+### iOS App
+
+1. [**Heart Rate Pulse Monitor**](https://apps.apple.com/za/app/heart-rate-pulse-monitor/id6468120647) 📱
+   - **Description**: An iOS app for monitoring your heart rate and pulse.
+
+### Android Apps
+
+2. [**Heart Rate Monitor**](https://play.google.com/store/apps/details?id=com.karl.heart_rate) ❤️
+   - **Description**: An app to monitor your heart rate and pulse.
+
+3. [**Calm Meditation**](https://play.google.com/store/apps/details?id=com.karlmathuthu.calm_meditation) 🧘‍♂️
+   - **Description**: A meditation app for achieving peace and tranquility.
+
+Explore these apps on their respective platforms and enjoy the benefits they offer. If you find them useful, consider leaving a review or rating!
+
+## 📞 Contact Information
+
+Feel free to reach out to me through the following channels:
+
+- WhatsApp: +27 65 723 5193
+- WhatsApp/Call: +27 66 049 6679
+- Facebook: [KarlKiyotaka](https://www.facebook.com/KarlKiyotaka)
+- Instagram: [KarlKiyotaka](https://www.instagram.com/KarlKiyotaka)
+- Discord: KarlKiyotaka
+- Email 1: Karl@stratida.com
+- Email 2: Karlmathuthu11@gmail.com
+- Email 3: Karlmathuthu07@gmail.com
+
+## 📫 Let's Connect
+
+Thank you for visiting my GitHub profile! Feel free to connect with me and explore my projects. ✨
