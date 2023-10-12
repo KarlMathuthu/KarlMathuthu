@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi i'm Karl Mathuthu
+Hi i'm Karl Kiyotaka
+こんにちは、清隆です。
 
 
 ## 🌐 Socials:
