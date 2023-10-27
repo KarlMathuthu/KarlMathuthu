@@ -1,6 +1,9 @@
-# 👋 Hello, I'm Karl Mathuthu
+# 👋 Hello, I'm Karl
 
 Welcome to my GitHub profile! 🚀
+
+I am a 17 year old Mobile developer with some awesome skills. If you would like to collaborate or want me to participate on one of your projects, Contact me using the information i put below. Thanks.
+
 
 ## 🔧 Tech Stack
 
@@ -11,6 +14,11 @@ I'm passionate about a variety of technologies and languages, including:
 - Kotlin :rocket:
 - Java ☕
 - C# :computer:
+
+## Currently learning :computer: 👨‍💻
+ - Html
+ - Css
+ - Javascript
 
 Feel free to explore my repositories and projects related to these technologies!
 
