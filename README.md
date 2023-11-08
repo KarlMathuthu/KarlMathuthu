@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-I am a 17 year old Mobile developer with some awesome skills. If you would like to collaborate or want me to participate on one of your projects, Contact me using the information i put below. Thanks.
+I am a Mobile developer with some awesome skills. If you would like to collaborate or want me to participate on one of your projects, Contact me using the information i put below. Thanks.
 
 
 ## 🔧 Tech Stack
@@ -19,6 +19,8 @@ I'm passionate about a variety of technologies and languages, including:
  - Html
  - Css
  - Javascript
+ - PHP
+ - Mongo DB
 
 Feel free to explore my repositories and projects related to these technologies!
 
