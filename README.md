@@ -1,8 +1,6 @@
-# 👋 Hello, I'm Karl
+# 👋 Hi there, I'm Karl
 
-Welcome to my GitHub profile! 🚀
-
-I am a Mobile developer with some awesome skills. If you would like to collaborate or want me to participate on one of your projects, Contact me using the information i put below. Thanks.
+![Welcome Image](https://drive.google.com/uc?export=view&id=1QPlB6scBUEjy5XfCiE63gRRoe_GlJERa)
 
 
 ## 🔧 Tech Stack
@@ -12,13 +10,9 @@ I'm passionate about a variety of technologies and languages, including:
 - Dart (Flutter) :iphone:
 - Firebase :fire:
 - Kotlin :rocket:
-- Java ☕
-- C# :computer:
+- PHP 💻
 
 ## Currently learning :computer: 👨‍💻
- - Html
- - Css
- - Javascript
  - PHP
  - Mongo DB
 
@@ -33,9 +27,9 @@ Feel free to explore my repositories and projects related to these technologies!
 
 Feel free to explore these projects and don't forget to give them a star if you find them useful!
 
-## 🌟 Portfolio
+## 🌟 Other Projects
 
-Here are some of my notable projects:
+Here are some of my other projects:
 
 ### iOS App
 
