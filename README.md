@@ -25,27 +25,6 @@ Feel free to explore my repositories and projects related to these technologies!
 
 ---
 
-Feel free to explore these projects and don't forget to give them a star if you find them useful!
-
-## 🌟 Other Projects
-
-Here are some of my other projects:
-
-### iOS App
-
-1. [**Heart Rate Pulse Monitor**](https://apps.apple.com/za/app/heart-rate-pulse-monitor/id6468120647) 📱
-   - **Description**: An iOS app for monitoring your heart rate and pulse.
-
-### Android Apps
-
-2. [**Heart Rate Monitor**](https://play.google.com/store/apps/details?id=com.karl.heart_rate) ❤️
-   - **Description**: An app to monitor your heart rate and pulse.
-
-3. [**Calm Meditation**](https://play.google.com/store/apps/details?id=com.karlmathuthu.calm_meditation) 🧘‍♂️
-   - **Description**: A meditation app for achieving peace and tranquility.
-
-Explore these apps on their respective platforms and enjoy the benefits they offer. If you find them useful, consider leaving a review or rating!
-
 ## 📞 Contact Information
 
 Feel free to reach out to me through the following channels:
