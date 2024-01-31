@@ -25,6 +25,11 @@ Feel free to explore my repositories and projects related to these technologies!
 
 ---
 
+## LinkedIn Profile
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="karlmathuthu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/karlmathuthu?trk=profile-badge">Karl Mathuthu</a></div>
+                            
+
 ## 📞 Contact Information
 
 Feel free to reach out to me through the following channels:
