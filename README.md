@@ -8,9 +8,10 @@ with mobile app development trends. with high experience making cool animations 
 I'm passionate about a variety of technologies and languages, including:
 
 - Dart (Flutter) :iphone:
+- Android Java 💻
 - Firebase :fire:
 - Kotlin :rocket:
-- PHP 💻
+- PHP & MySQL 💻 
 
 ## Currently learning :computer: 👨‍💻
  - PHP
