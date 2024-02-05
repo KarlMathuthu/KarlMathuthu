@@ -15,7 +15,7 @@ I'm passionate about a variety of technologies and languages, including:
 
 ## Currently learning :computer: 👨‍💻
  - PHP
- - Mongo DB
+ - MySQL
 
 Feel free to explore my repositories and projects related to these technologies!
 
