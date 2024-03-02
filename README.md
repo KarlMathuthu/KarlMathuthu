@@ -36,7 +36,6 @@ Feel free to explore my repositories and projects related to these technologies!
 Feel free to reach out to me through the following channels:
 
 - WhatsApp: +27 65 723 5193
-- WhatsApp/Call: +27 66 049 6679
 - Facebook: [KarlKiyotaka](https://www.facebook.com/KarlKiyotaka)
 - Instagram: [KarlKiyotaka](https://www.instagram.com/KarlKiyotaka)
 - Discord: KarlKiyotaka
