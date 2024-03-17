@@ -11,13 +11,13 @@ I'm passionate about a variety of technologies and languages, including:
 - Android Java 💻
 - Firebase :fire:
 - Kotlin :rocket:
-- PHP & MySQL 💻
 - GoLang 💻
+- MongoDB 🥬
 
 ## Currently learning :computer: 👨‍💻
- - PHP
- - MySQL
+
  - GoLang 💻
+ - MongoDB 🥬
 
 Feel free to explore my repositories and projects related to these technologies!
 
