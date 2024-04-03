@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Karl.
 
-Expert Mobile App Developer building production-level mobile applications with +3 years experience , Proficient in Dart programming and Flutter framework , with In-depth understanding of mobile app architecture and UI/UX principles. High experience in optimizing app performance, Collaborative mindset with excellent problem-solving skills, and staying updated
-with mobile app development trends. with high experience making cool animations that make the app so high quality.
+Experienced Full Stack Mobile App Developer proficient in Dart, Flutter, MongoDB, and GoLang. Over 3 years of expertise in building robust, scalable applications with a focus on performance optimization and UI/UX principles. Skilled in creating captivating animations to enhance app quality. Stay updated with the latest mobile app development trends. Collaborative mindset with excellent problem-solving skills.
 
 ## 🔧 Tech Stack
 
