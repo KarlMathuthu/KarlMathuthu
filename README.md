@@ -6,17 +6,11 @@ Experienced Full Stack Mobile App Developer proficient in Dart, Flutter, MongoDB
 
 I'm passionate about a variety of technologies and languages, including:
 
-- Dart (Flutter) :iphone:
-- Android Java 💻
+- Dart 💙
+- Flutter 📱
 - Firebase :fire:
-- Kotlin :rocket:
 - GoLang 💻
 - MongoDB 🥬
-
-## Currently learning :computer: 👨‍💻
-
- - GoLang 💻
- - MongoDB 🥬
 
 Feel free to explore my repositories and projects related to these technologies!
 
