@@ -30,13 +30,7 @@ Feel free to explore my repositories and projects related to these technologies!
 
 Feel free to reach out to me through the following channels:
 
-- WhatsApp: +27 65 723 5193
-- Facebook: [KarlKiyotaka](https://www.facebook.com/KarlKiyotaka)
-- Instagram: [KarlKiyotaka](https://www.instagram.com/KarlKiyotaka)
-- Discord: KarlKiyotaka11
-- Email 1: Karl@stratida.com
-- Email 2: Karlmathuthu11@gmail.com
-- Email 3: Karlmathuthu07@gmail.com
+- Email : Karlmathuthu07@gmail.com
 
 ## 📫 Let's Connect
 
