@@ -1,6 +1,6 @@
 # 👋 Flutter Enthusiast & Gopher.
 
-Experienced Full Stack Mobile App Developer proficient in Dart, Flutter, MongoDB, and GoLang. Over 3 years of expertise in building robust, scalable applications with a focus on performance optimization and UI/UX principles. Skilled in creating captivating animations to enhance app quality. Stay updated with the latest mobile app development trends. Collaborative mindset with excellent problem-solving skills.
+Experienced Full Stack Developer proficient in Dart, Flutter, MongoDB, and GoLang. Over 3 years of expertise in building robust, scalable applications with a focus on performance optimization and UI/UX principles. Skilled in creating captivating animations to enhance app quality. Stay updated with the latest mobile app development trends. Collaborative mindset with excellent problem-solving skills.
 
 ## 🔧 Tech Stack
 
