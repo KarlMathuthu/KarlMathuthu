@@ -12,7 +12,7 @@ I'm passionate about a variety of technologies and languages, including:
 - GoLang 💻
 - MongoDB 🥬
 
-Feel free to explore my repositories and projects related to these technologies!
+Feel free to explore my repositories and projects related to these technologies
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
