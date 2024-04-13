@@ -34,4 +34,4 @@ Feel free to reach out to me through the following channels:
 
 ## 📫 Let's Connect
 
-Thank you for visiting my GitHub profile! Feel free to connect with me and explore my projects. ✨
+Thank you for visiting my GitHub profile! Feel free to connect with me and explore my projects ✨
