@@ -1,16 +1,34 @@
-# 👋 Flutter Enthusiast & Gopher
+# 👋 Hi, Karl here!
 
-Experienced Full Stack Developer proficient in Dart, Flutter, MongoDB, and GoLang. Over 3 years of expertise in building robust, scalable applications with a focus on performance optimization and UI/UX principles. Skilled in creating captivating animations to enhance app quality. Stay updated with the latest mobile app development trends. Collaborative mindset with excellent problem-solving skills.
+Hello, It's nice to meet you, through my github page ofc! lol, You can contact me though. Later!
 
 ## 🔧 Tech Stack
 
 I'm passionate about a variety of technologies and languages, including:
 
-- Dart 💙
-- Flutter 📱
-- Firebase :fire:
-- GoLang 💻
-- MongoDB 🥬
+#### FramekWorks
+- Flutter
+- JetPack Compose
+- Swift UI
+- Gin Gonic
+#### Languages
+
+- Dart
+- Java
+- Swift
+- Kotlin
+- Golang
+
+#### Databases
+
+- Firebase
+- MongoDB
+
+#### Additional
+
+- Rest APIs
+- HTML
+- CSS
 
 Feel free to explore my repositories and projects related to these technologies.
 
@@ -30,7 +48,7 @@ Feel free to explore my repositories and projects related to these technologies.
 
 Feel free to reach out to me through the following channels:
 
-- Email : Karlmathuthu07@gmail.com
+- Email : karl@clarix.co.za
 
 ## 📫 Let's Connect
 
