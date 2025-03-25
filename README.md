@@ -6,7 +6,7 @@ Hello, It's nice to meet you, through my github page ofc! lol, You can contact m
 
 I'm passionate about a variety of technologies and languages, including:
 
-#### FramekWorks
+#### FrameWorks
 - Flutter
 - JetPack Compose
 - Swift UI
