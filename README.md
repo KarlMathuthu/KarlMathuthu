@@ -1,55 +1,51 @@
-# 👋 Hi, Karl here!
+# 🚀 Hi there, I'm Karl! 👋
 
-Hello, It's nice to meet you, through my github page ofc! lol, You can contact me though. Later!
-
-## 🔧 Tech Stack
-
-I'm passionate about a variety of technologies and languages, including:
-
-#### FrameWorks
-- Flutter
-- JetPack Compose
-- Swift UI
-- Gin Gonic
-#### Languages
-
-- Dart
-- Java
-- Swift
-- Kotlin
-- Golang
-
-#### Databases
-
-- Firebase
-- MongoDB
-
-#### Additional
-
-- Rest APIs
-- HTML
-- CSS
-
-Feel free to explore my repositories and projects related to these technologies.
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karlmathuthu&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub! Great to meet you—virtually, of course. Feel free to explore my repositories, check out my projects, and let's connect! 🚀
 
 ---
 
-## LinkedIn Profile
+## 🛠️ Tech Stack
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="karlmathuthu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://za.linkedin.com/in/karlmathuthu?trk=profile-badge">Karl Mathuthu</a></div>
-                            
+### Frameworks & Platforms
+- 🔹 Flutter
+- 🔹 Jetpack Compose
+- 🔹 SwiftUI
+- 🔹 Gin Gonic
 
-## 📞 Contact Information
+### Languages
+- 🟡 Dart
+- 🟠 Java
+- 🍏 Swift
+- 🟣 Kotlin
+- 🔵 Golang
 
-Feel free to reach out to me through the following channels:
+### Databases
+- 🔥 Firebase
+- 🍃 MongoDB
 
-- Email : karl@clarix.co.za
+### Additional Skills
+- 🌍 REST APIs
+- 🎨 HTML & CSS
 
-## 📫 Let's Connect
+---
 
-Thank you for visiting my GitHub profile! Feel free to connect with me and explore my projects ✨
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karlmathuthu&theme=dark&hide_border=false" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlmathuthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+📩 **Email**: [karl@clarix.co.za](mailto:karl@clarix.co.za)  
+💼 **LinkedIn**: [Karl Mathuthu](https://za.linkedin.com/in/karlmathuthu?trk=profile-badge)  
+
+---
+
+🚀 Thanks for stopping by! Let's build something amazing together. ✨
